@@ -17,12 +17,12 @@ div.cell { /* set cell width */
     width: 90%;
 }
 
-div #notebook { /* centre the content */
-    background: #fff; /* white background for content */
+/*div #notebook { /* centre the content /
+    background: #fff; /* white background for content /
     width: 90%;
     margin: auto;
     padding-left: 0em;
-}
+}*/
 
 #notebook li { /* More space between bullet points */
 margin-top:0.8em;
